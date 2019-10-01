@@ -3,7 +3,8 @@
 
 	*=$033c
 
-loop	lda tmp
+loop	
+	lda tmp
 	cmp $dc00
 	beq loop
 
