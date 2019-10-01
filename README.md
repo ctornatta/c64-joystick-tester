@@ -8,7 +8,7 @@ tmpx  -i jstick.asm -o jstick.prg
 
 to run in vice
 ```
-x64 jystick.prg
+x64 jstick.prg
 ```
 
 to run in emulator
